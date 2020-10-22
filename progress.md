@@ -10,3 +10,8 @@ This is meant as an accountability mechanism for progress on my thesis. It will 
 - Read "SPICE" by Anderson et al. 
 - Wrote scripts to process the output from mTurk study
 - Launch additional HITs for images that did not have enough results
+
+### 10/20/2020
+- Collected and interpreted results from first 100 images for mTurk study
+- Analyzed gender and skin color breakdown for the first 100 images
+- Identified high miss gold standard images
