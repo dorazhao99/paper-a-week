@@ -19,3 +19,15 @@ This is meant as an accountability mechanism for progress on my thesis. It will 
 ## November
 ### Goals (updated as of 11/10)
 - [ ] Get annotations for entire validation set
+- [ ] Read literature on evaluation metrics for image captioning
+- [ ] Read literature on human-generation of ground-truth captions
+- [ ] Pull data on slurs / defamatory language in ground-truth captions
+- [ ] Run more complex models 
+
+#### 11/9/2020
+- Pulled and coded mentions of race in GT captions 
+
+#### 11/10/2020
+- Pulled results for full annotation of MSCOCO Validation set
+- Pulled counts for slurs / defamatory language in GT captions
+- Analyzed evaluation scores across the 100 annotated images so far
